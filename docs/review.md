@@ -1,4 +1,4 @@
-**Review of Task 1**
+### Review of Task 1
 
 **Time spent:** 1.2D
 - Setup Appium Environment - 0.3D
@@ -11,7 +11,7 @@
 2. Script and debug
 3. Analyze the results
 
-**Review of Task 2** 
+### Review of Task 2 
 
 **Time spent:** 0.1D
 
@@ -20,5 +20,5 @@
 - Confirm whether there is an official API 
 - Inspect and confirm whether the packet capture can capture original requests from the MyObservatory app
 2. Use Fiddler to capture the URL and query params
-![Capture](/Users/lyh/PycharmProjects/MyObservatory/docs/screenshot_of_fiddler.jpeg)
+![Capture](screenshot_of_fiddler.jpeg)
 3. Script to get details
