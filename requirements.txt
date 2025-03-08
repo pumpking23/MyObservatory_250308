@@ -1,0 +1,7 @@
+Appium_Python_Client==4.5.1
+pytest==8.3.5
+selenium==4.29.0
+
+appium-python-client~=4.5.1
+requests~=2.32.3
+beautifulsoup4~=4.13.3
